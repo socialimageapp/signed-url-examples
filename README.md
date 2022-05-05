@@ -20,6 +20,8 @@ You'll need to create a **Project**, **Template** and **add your Template to you
 
 You can then go to [https://use.socialimage.app/integrations/signedUrls/create](https://use.socialimage.app/integrations/signedUrls/create) to create a Signed URL.
 
+<img width="838" alt="create-social-image-signed-url" src="https://user-images.githubusercontent.com/4564433/167026501-69f36a87-9798-45fd-85b7-26c93b8508db.png" style="margin: auto;">
+
 ## Create a Signed URL
 
 The following is Javascript, but the same principle can be followed in the programming language of your choosing.
@@ -101,3 +103,6 @@ You can then add the generated Signed URLs in the OG meta tags of your website.
   content="https://api.socialimage.app/develop/signed/6s8hUS64C2qE5htT8j2Yc8/image.jpg?modifications=W3sibmFtZSI6InRpdGxlIiwidGV4dCI6IldoeSBkaWQgSSBidWlsZCBTb2NpYWwgSW1hZ2U_In0seyJuYW1lIjoiZmVhdHVyZWRfaW1hZ2UiLCJ1cmwiOiJodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9zb2NpYWwtaW1hZ2UtYXBwL2ltYWdlL3VwbG9hZC92MTY0ODE1ODU4Mi9zb2NpYWxpbWFnZS5hcHAvYmxvZy9mbG9yaWFuZS12aXRhLUZ5RDNPV0J1WG5ZLXVuc3BsYXNoX2l2NTJ1cS5qcGcifSx7Im5hbWUiOiJkYXRlIiwidXJsIjoiMjAyMC0wNC0wOFQwOTowMDowMC4wMDBaIn0seyJuYW1lIjoiYXV0aG9yIiwidGV4dCI6Ikt5bGUifSx7Im5hbWUiOiJhdmF0YXJfaW1hZ2UiLCJ1cmwiOiJodHRwczovL3Jlcy5jbG91ZGluYXJ5LmNvbS9zb2NpYWwtaW1hZ2UtYXBwL2ltYWdlL3VwbG9hZC92MTY0ODE1MjQ2OS9zb2NpYWxpbWFnZS5hcHAvYXV0aG9ycy9reWxlX3VmMmY2OC5qcGcifV0&sig=a9d68d49da3746548b170529a68d05e86fb436d992ddbd415504cca87809c441"
 />
 ```
+![84c6ea2d46b6d17f21e878f26e5a47fa](https://user-images.githubusercontent.com/4564433/167030937-1aa82889-fc5f-40f1-95c5-84a6de108280.jpeg)
+
+
